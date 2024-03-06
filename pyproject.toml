@@ -14,4 +14,4 @@ where = ["src"]
 "*" = ["*.db"]
 
 [project.scripts]
-kagepy = "kagepy.main:main"
+kagepy = "kagepy.__main__:main"
